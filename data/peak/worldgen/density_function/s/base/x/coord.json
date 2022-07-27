@@ -1,0 +1,5 @@
+{
+	"type": "minecraft:mul",
+	"argument1": "peak:s/base/x/offset",
+	"argument2": "peak:s/base/x/inverse/slope"
+}

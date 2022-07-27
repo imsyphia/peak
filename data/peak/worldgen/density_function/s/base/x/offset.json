@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:add",
+    "argument1": "peak:s/base/x/noise/point",
+    "argument2": {
+        "type": "minecraft:mul",
+        "argument1": -1,
+        "argument2": "peak:s/base/common/center"
+    }
+}

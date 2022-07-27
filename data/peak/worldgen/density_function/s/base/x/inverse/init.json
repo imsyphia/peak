@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:cache_2d",
+    "argument": {
+        "type": "minecraft:mul",
+        "argument1": {
+            "type": "minecraft:mul",
+            "argument1": 131072,
+            "argument2": 1024
+        },
+        "argument2": {
+            "type": "minecraft:range_choice",
+            "input": {
+                "type": "minecraft:add",
+                "argument1": 0,
+                "argument2": "peak:s/base/x/inverse/d"
+            },
+            "when_in_range": -1,
+            "when_out_of_range": 1,
+            "min_inclusive": -1,
+            "max_exclusive": 0
+        }
+    }
+}

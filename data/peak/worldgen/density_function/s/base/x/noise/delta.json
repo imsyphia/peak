@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:cache_2d",
+    "argument": {
+        "type": "minecraft:shifted_noise",
+        "noise": "peak:s/base/coord",
+        "xz_scale": 1.0,
+        "y_scale": 0.0,
+        "shift_x": 1.0,
+        "shift_y": 0.0,
+        "shift_z": "peak:s/base/common/shift"
+    }
+}
