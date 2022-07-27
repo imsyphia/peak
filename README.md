@@ -14,7 +14,7 @@ based on the same Minecraft version, meaning that _all_ density functions and
 noises in all stable implementations will work, and give the same result, when
 multiple versions of Peak are loaded. The purpose of this is to make embedding
 Peak in a data pack safer, and to make it easier to build new implementations
-from on other ones, while also maintaining performance. Stable implementations
+from other ones, while also maintaining performance. Stable implementations
 reside in `peak:s/`, while unstable ones should be in `peak:exp/`.
 
 The density functions that compute the coordinates can be accessed at
